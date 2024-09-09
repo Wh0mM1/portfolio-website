@@ -1,0 +1,54 @@
+[
+  
+  {
+    "title": "Spring-Boot",
+    "imageSrc": "https://skillicons.dev/icons?i=spring"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "https://skillicons.dev/icons?i=flutter"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://skillicons.dev/icons?i=react"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "https://skillicons.dev/icons?i=docker"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "https://skillicons.dev/icons?i=kubernetes"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "https://skillicons.dev/icons?i=jenkins"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "https://skillicons.dev/icons?i=aws"
+  },
+  {
+    "title": "GCP",
+    "imageSrc": "https://skillicons.dev/icons?i=gcp"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "https://skillicons.dev/icons?i=nodejs"
+  },
+  
+  {
+    "title": "Postman",
+    "imageSrc": "https://skillicons.dev/icons?i=postman"
+  },
+  
+  {
+    "title": "Kafka",
+    "imageSrc": "https://skillicons.dev/icons?i=kafka"
+  },
+  
+  {
+    "title": "Redis",
+    "imageSrc": "https://skillicons.dev/icons?i=redis"
+  }
+]
